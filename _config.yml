@@ -1,1 +1,16 @@
-theme: jekyll-theme-hacker
+title: kychow 
+author: 
+name: kychow
+
+description: >
+  Minimal portfolio website.
+
+
+# Build 
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
