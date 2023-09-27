@@ -2,9 +2,7 @@
 To visit, navigate to [kychow.github.io](kychow.github.io) 
 
 # About
-This site was built for minimal maintenance using [GitHub Pages](https://pages.github.com/).
-
-I used to refer to my wiki page at work for documentation. Hopefully this site can serve the same purpose.
+This site was built for minimal maintenance using [GitHub Pages](https://pages.github.com/) 
 
 # Markdown Reference 
 ```
